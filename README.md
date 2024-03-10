@@ -1,6 +1,6 @@
 # 👋 Hola, mi nombre es Santiago Carrero
 
-Soy fullstack developer desde hace 3 años, trabajo de manera independiente.
+FrontEnd desde hace 3 años, trabajo de manera independiente.
 
 -----
 
