@@ -1,6 +1,6 @@
 # 👋 Hola, mi nombre es Santiago Carrero
 
-FrontEnd desde hace 3 años, trabajo de manera independiente.
+FrontEnd desde hace 3 años, trabajo para empresas.
 
 -----
 
